@@ -1,4 +1,4 @@
-# Hi, I'm Mahi 👋  
+# Hi, I'm Mahi  👋  
 
 🎓 College Student  
 🐍 Python Developer  
